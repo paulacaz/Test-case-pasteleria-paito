@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_torta de leche_mb-1 img-fluid img-product</name>
+   <tag></tag>
+   <elementGuidId>fb2ec243-64ab-4515-8874-ac2733811537</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='producto']/div/div[8]/div/div/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(8) > div.card.card-product > div.card-body > div.text-center.position-relative > a > img.mb-1.img-fluid.img-product</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(8) > .card > .card-body > .text-center > a</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>84be180c-ed8c-4dea-b808-2a65fcf2e40a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Pasteleria</value>
+      <webElementGuid>97ccf342-1e67-4b1a-8b9f-0eebe754c20e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-1 img-fluid img-product</value>
+      <webElementGuid>734fc06c-89e6-458c-860b-7bef77a7c9fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.aws.nestle.recipes%2Foriginal%2F13e670565e9d14c73420f8f4a068d186_07---Postre-3-leches.jpg&amp;f=1&amp;nofb=1&amp;ipt=1f39e534a92426ecd465c1369b1f5b48023722386309629477b7940e7c387c20&amp;ipo=images</value>
+      <webElementGuid>33f48f79-27c6-406f-afa5-d2deffe295ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;producto&quot;)/div[@class=&quot;d-flex flex-wrap justify-content-between gap-3 mt-3&quot;]/div[8]/div[@class=&quot;card card-product&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;text-center position-relative&quot;]/a[1]/img[@class=&quot;mb-1 img-fluid img-product&quot;]</value>
+      <webElementGuid>c5c4dfca-52a6-4bb4-8af9-4e59d1f1a1b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='producto']/div/div[8]/div/div/div/a/img</value>
+      <webElementGuid>b5e1ef45-cf3a-4932-9ef2-00e10bf93b1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Pasteleria'])[8]</value>
+      <webElementGuid>4e6c5cc4-64c6-4549-9efe-7787d535d9cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div/a/img</value>
+      <webElementGuid>544f95b0-47ed-425d-bd62-92717ef4c980</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Pasteleria' and @src = 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.aws.nestle.recipes%2Foriginal%2F13e670565e9d14c73420f8f4a068d186_07---Postre-3-leches.jpg&amp;f=1&amp;nofb=1&amp;ipt=1f39e534a92426ecd465c1369b1f5b48023722386309629477b7940e7c387c20&amp;ipo=images']</value>
+      <webElementGuid>b955cc1e-1155-4269-b209-66fd931f4f2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

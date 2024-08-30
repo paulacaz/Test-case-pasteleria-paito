@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Eliminar (1)</name>
+   <tag></tag>
+   <elementGuidId>f0595cbc-cff7-426a-8567-e94f91c77ab4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[46]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(9) > div.card.card-product > div.card-body > div.d-flex.justify-content-between.align-items-center.mt-3 > button.btn.btn-danger.btn-sm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(9) > .card > .card-body > .d-flex > button:nth-child(3)</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7799719f-2839-456e-99cf-b0d4dcd48312</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b9438f6c-e49b-47d4-b628-340362e6944e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-danger btn-sm</value>
+      <webElementGuid>13f63986-8b7d-46ae-8e6d-72a1e8c5fcba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Eliminar </value>
+      <webElementGuid>1765742f-e4e5-44e1-9fc3-8e84b7b06539</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;producto&quot;)/div[@class=&quot;d-flex flex-wrap justify-content-between gap-3 mt-3&quot;]/div[9]/div[@class=&quot;card card-product&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;d-flex justify-content-between align-items-center mt-3&quot;]/button[@class=&quot;btn btn-danger btn-sm&quot;]</value>
+      <webElementGuid>efb607c8-807a-4e3d-bc1f-31a2ca9391cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[46]</value>
+      <webElementGuid>1e03ba57-a567-477e-bd8b-e11300e5b9b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='producto']/div/div[9]/div/div/div[4]/button[2]</value>
+      <webElementGuid>074baf09-9af2-4d1e-8619-4c3b40aaf76e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Editar'])[22]/following::button[1]</value>
+      <webElementGuid>c6f2cc48-e827-4708-9be4-1076cd909f52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$200,000.00'])[1]/following::button[2]</value>
+      <webElementGuid>5587ae50-9e71-40c5-8638-8123b0dcc946</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tortas mexicanas'])[11]/preceding::button[1]</value>
+      <webElementGuid>cfd4bade-5e1e-433c-ad92-613ea6908ba0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tortas mexicanas'])[12]/preceding::button[1]</value>
+      <webElementGuid>56cdf78a-30d2-44d7-ac9f-e3b58803ec8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/div[4]/button[2]</value>
+      <webElementGuid>1b2814fa-753d-462e-bde8-ecd8ac06f1ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Eliminar ' or . = ' Eliminar ')]</value>
+      <webElementGuid>853253b0-e8a9-4ca7-bebf-18604c53f8df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

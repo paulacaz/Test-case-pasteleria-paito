@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Buscar_d-block w-50 mx-auto</name>
+   <tag></tag>
+   <elementGuidId>fbb4031b-e50a-44f3-8fa6-81ba45bfb905</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='centrar']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.d-block.w-50.mx-auto</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=img[name=&quot;centrar&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ab9dd6a8-6337-4ea7-8750-f5460670d022</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/img/Banner.png</value>
+      <webElementGuid>dd33f9c1-6696-4e8f-a57b-be5fa92f9ad9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>centrar</value>
+      <webElementGuid>c3df9dcb-2230-41a4-9dc4-847727a9086d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-block w-50 mx-auto</value>
+      <webElementGuid>3c6cd67b-14b4-4b5e-a1e4-d70ae5ac07d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-quienes-somos[1]/div[1]/img[@class=&quot;d-block w-50 mx-auto&quot;]</value>
+      <webElementGuid>931d9e94-4d92-4ca5-8f5b-aff090a694f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='centrar']</value>
+      <webElementGuid>ad1f24ed-139a-4c76-91d3-605e51696835</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/img</value>
+      <webElementGuid>3d1fca80-f2c1-47ff-9b6f-ab8bc069f744</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'assets/img/Banner.png' and @alt = 'centrar']</value>
+      <webElementGuid>d6007235-4935-492e-8b88-4df2f75f994e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

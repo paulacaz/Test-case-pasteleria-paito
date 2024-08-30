@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Descripcin_descripcion (1)</name>
+   <tag></tag>
+   <elementGuidId>e4cb6487-bcc5-4d19-b34d-57ad5c342661</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//textarea[@id='descripcion'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mb-1 > #descripcion</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#collapseTwo #descripcion</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>0c3dec7b-c3ad-45e1-bb0d-ade9924833d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>descripcion</value>
+      <webElementGuid>6f023764-6cbf-4254-a8d0-730f2e90b3af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>descripcion</value>
+      <webElementGuid>459b6e49-8281-4ed9-991f-4e28eace486a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-untouched ng-valid ng-dirty</value>
+      <webElementGuid>af8d1889-881b-432d-bfae-a60bbd5a46d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapseTwo&quot;)/div[@class=&quot;accordion-body&quot;]/admin-producto[1]/admin-common-app-producto[1]/div[@class=&quot;container mt-5&quot;]/form[@class=&quot;ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;mb-1&quot;]/textarea[@id=&quot;descripcion&quot;]</value>
+      <webElementGuid>6562289d-430e-41e5-b46a-eeda77791dbb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//textarea[@id='descripcion'])[2]</value>
+      <webElementGuid>bd21cdf2-6c32-470a-ace1-5ba6b3c73f8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapseTwo']/div/admin-producto/admin-common-app-producto/div/form/div[2]/textarea</value>
+      <webElementGuid>94294be0-77b0-46b3-a39c-f09a073293fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//admin-common-app-producto/div/form/div[2]/textarea</value>
+      <webElementGuid>2a696bea-20f7-4a7c-8954-dc0fb374952d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = 'descripcion']</value>
+      <webElementGuid>c80284b7-f3a3-469f-893b-db0c8263de9d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

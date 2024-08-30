@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_4.99_bi bi-bag-plus-fill</name>
+   <tag></tag>
+   <elementGuidId>46aeb517-4bfb-4d70-94cf-cbade7bdd8da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='producto']/div/div/div/div/div[2]/div[2]/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.bi.bi-bag-plus-fill</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>58a184f8-7625-4266-8108-19f9ce727074</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-bag-plus-fill</value>
+      <webElementGuid>efc0f9fc-060d-465d-9f2b-30d4b0f0a0ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;producto&quot;)/div[@class=&quot;d-flex flex-wrap justify-content-start gap-3 mt-3&quot;]/div[1]/div[@class=&quot;card card-product&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;d-flex justify-content-between align-items-center mt-3&quot;]/div[2]/button[@class=&quot;btn btn-primary btn-sm&quot;]/i[@class=&quot;bi bi-bag-plus-fill&quot;]</value>
+      <webElementGuid>49fadafe-6475-4d1e-a768-e1a41ca4ce62</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='producto']/div/div/div/div/div[2]/div[2]/button/i</value>
+      <webElementGuid>e5a0ef4f-929a-48d5-b9fd-14ec123c97b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>164e921d-04de-49b3-a7fa-9d2023260878</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
